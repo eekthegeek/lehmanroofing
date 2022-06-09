@@ -1,0 +1,26 @@
+.home .site-inner {
+  padding-top:0;
+}
+
+.front-page-2 .wrap,
+.front-page-3 .wrap,
+.front-page-4 .wrap,
+.front-page-5 .wrap {
+    text-align: center;
+}
+
+.front-page-2 .wrap {
+    /* text-align: center; */
+    padding: 1.9em;
+}
+
+
+.front-page-3 {
+    height:300px;
+    background-color:#dbdbdb;
+}
+
+.home h4 {
+    font-size:2.0em;
+    color:#C00f0f;
+}
